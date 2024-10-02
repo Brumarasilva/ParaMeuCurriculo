@@ -1,0 +1,14 @@
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\bin\Debug\net8.0\FormasDePagamento.exe
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\bin\Debug\net8.0\FormasDePagamento.deps.json
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\bin\Debug\net8.0\FormasDePagamento.runtimeconfig.json
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\bin\Debug\net8.0\FormasDePagamento.dll
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\bin\Debug\net8.0\FormasDePagamento.pdb
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.AssemblyInfo.cs
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.dll
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\refint\FormasDePagamento.dll
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.pdb
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.genruntimeconfig.cache
+C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\ref\FormasDePagamento.dll
