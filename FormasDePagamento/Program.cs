@@ -1,8 +1,9 @@
 ﻿// Formas de Pagamento
-
+returnone:
 Console.WriteLine("Insira o valor: ");
 if (double.TryParse(Console.ReadLine(), out double val) || val > 0)
 {
+    returntwo:
     Console.WriteLine("Digite a forma de pagamento: ");
     Console.WriteLine("Dinheiro");
     Console.WriteLine("Cartão de Crédito");
@@ -26,13 +27,14 @@ if (double.TryParse(Console.ReadLine(), out double val) || val > 0)
             break;
         default:
             Console.WriteLine("Forma de Pagamento inválida");
-            break;
+            goto returntwo;
     }
 
 }
 else
 {
     Console.WriteLine("Valor Inválido");
+    goto returnone;
 }
     
 
