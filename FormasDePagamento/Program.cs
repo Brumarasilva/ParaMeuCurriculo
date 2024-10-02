@@ -1,4 +1,9 @@
-﻿// Formas de Pagamento
+﻿Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("*".PadLeft(19, '*'));
+Console.WriteLine("Formas de Pagamento");
+Console.WriteLine("*".PadLeft(19, '*'));
+Console.ResetColor();
+
 returnone:
 Console.WriteLine("Insira o valor: ");//Pedindo o Valor para o Desconto
 if (double.TryParse(Console.ReadLine(), out double val) || val > 0)//Tentando converter o valor inserido pelo usuário para um número real. Se a tentativa de conversão for bem sucedida ele continuará o código. Senão retornará uma mensagem de erro e pedirá o usuário para digitar novamente
