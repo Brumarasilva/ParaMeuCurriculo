@@ -1,7 +1,7 @@
 ﻿// Formas de Pagamento
 
 Console.WriteLine("Insira o valor: ");
-if (double.TryParse(Console.ReadLine(), out double val) || val <= 0)
+if (double.TryParse(Console.ReadLine(), out double val) || val > 0)
 {
     Console.WriteLine("Digite a forma de pagamento: ");
     Console.WriteLine("Dinheiro");
@@ -24,7 +24,17 @@ if (double.TryParse(Console.ReadLine(), out double val) || val <= 0)
         case "crédito parcelado":
             Console.WriteLine($"O valor do pagamento será: {val}");
             break;
+        default:
+            Console.WriteLine("Forma de Pagamento inválida");
+            break;
     }
+
 }
+else
+{
+    Console.WriteLine("Valor Inválido");
+}
+    
+
 
 

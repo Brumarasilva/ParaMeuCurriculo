@@ -12,3 +12,4 @@ C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net
 C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.pdb
 C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.genruntimeconfig.cache
 C:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\ref\FormasDePagamento.dll
+c:\Users\Alunos\Documents\bruna\ParaMeuCurriculo\FormasDePagamento\obj\Debug\net8.0\FormasDePagamento.sourcelink.json
