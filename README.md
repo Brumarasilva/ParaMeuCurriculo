@@ -14,3 +14,11 @@
 * O desconto foi aplicado de acordo com a opção do cliente.
 * Foi utilizado validação, caso o usuário digite algo diferente do padrão do valor e da forma de pagamento.
 * Adicionando return(loop) para valores inválidos.
+
+## Backlog:
+
+Adicionar formas de parcelamento caso o cliente escolha a opção "crédito parcelado".
+
+## Conclusão:
+
+É um programa que oferece ao cliente formas de pagamento variadas, aplicando descontos de acordo com o formato de pagamento selecionado.
